@@ -1,0 +1,84 @@
+  
+.container {
+    width: 700px;
+    margin: 0px auto;
+    border: 15px rgb(240, 97, 97) double;
+    padding: 20px;
+    background-color: rgb(245, 205, 220);
+}
+
+.container2 {
+    width: 600px;
+    margin: 0px auto;
+    border: 15px rgb(240, 195, 212) double;
+    padding: 10px;
+    background-color: rgb(238, 120, 120);
+}
+
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(231, 172, 150);
+}
+
+ul.nav li {
+    display: inline-block;
+}
+
+ul.nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(240, 128, 154)
+}
+
+body {
+    background-color: rgb(150, 84, 99)
+}
+
+.container3 {
+    width: 200px;
+    margin: 20px;
+    border: 2px dotted black;
+    padding: 20px;
+    background-color: rgb(238, 150, 165);
+    float: left;
+}
+
+.container4 {
+    width: 400px;
+    margin: 20px;
+    border: 2px dotted black;
+    padding: 20px;
+    background-color: rgb(200, 230, 221);
+}
+
+.container5 {
+    width: 560px;
+    margin: 0 auto;
+    border: 2px dotted black;
+    padding: 20px;
+    background-color: rgb(194, 142, 170);
+}
+
+.container6 {
+    width: 600px;
+    margin: 0 auto;
+    border: 2px dotted black;
+    padding: 20px;
+    background-color: rgb(218, 145, 195);
+}
+
+table,
+th,
+td {
+    border: 5px solid rgb(152, 53, 74);
+    border-collapse: collapse;
+}
